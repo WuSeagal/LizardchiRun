@@ -1,0 +1,13 @@
+# Godot 自動產生的快取，不需 commit
+.godot/
+
+# 匯出產物
+export_web/
+*.exe
+*.console.exe
+
+# 崩潰記錄
+*.stackdump
+
+# Claude Code 本地 memory
+.claude/

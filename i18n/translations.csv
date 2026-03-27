@@ -1,0 +1,53 @@
+keys,zh_TW,en
+SUBTITLE,手蜥疊手蜥　一起蜥救蜥,"Help the lizard stucked at sky!"
+BTN_START,▶  開始遊戲,▶  Start Game
+HINT_ANY_KEY,— 或按下任意鍵開始遊戲 —,— Press any key to start —
+BTN_RULES,查看規則,Rules
+BTN_RULES_SHORT,規則,Rules
+RULES_TITLE,遊戲規則,Game Rules
+RULES_BODY,"有蜥蜴被困在天上了！快來救牠，蜥蜴們會在充滿幹勁的移動7秒後裝死藉此施展漂浮術，請幫助蜥蜴們搭建出救援蜥梯拯救蜥蜥吧！
+
+🎮  操作：
+    A / D  或  ← →  ：移動
+    空白鍵 / ↑ / W ：跳躍
+    E ：將倒數快轉到 3 秒
+    R（長壓 2 秒）：重新開始
+
+💡  策略提示：
+	讓前幾隻蜥蜴在好位置裝死，搭起救援的蜥梯！","Lizards are stuck in the sky! Come to the rescue!
+After 7 seconds of energetic moving, they play dead to perform 'Lizard Levitation.' Help them stack up a Living Lizard Ladder to save the day!
+
+🎮  Controls:
+    A / D  or  ← →  : Move
+    Space / ↑ / W : Jump
+    E : Fast-forward timer to 3s
+    R (hold 2s) : Restart
+
+💡  Strategy:
+    Position the first few lizards carefully before they 'freeze' to build a solid foundation for your rescue ladder!"
+BTN_CLOSE,✕  關閉,✕  Close
+HINT_CONTROLS,A/D: 移動   空白/↑/W: 跳躍   E: 快轉剩3秒   R: 重來(長按),A/D: Move   Space/↑/W: Jump   E: Skip to 3s   R: Restart (hold)
+LABEL_VOLUME,音量,Volume
+BTN_RETRY,重新挑戰,Retry
+BTN_HOME,回標題,Title
+BTN_TREASURE,蜥蜴的大秘寶,The Great Lizard Treasure
+TREASURE_TEXT,"✨  蜥蜴你們救了我！
+
+我告訴你一個古老的咒語：
+
+「蜥萬有錢」
+
+你就會有錢喔！","✨  You saved me!
+
+Let me tell you an ancient spell:
+
+「蜥萬有錢」"
+BTN_OK,知道了！,Got it!
+SPEECH_1,快來救我,"I'm here, Lizards!"
+SPEECH_2,救救蜥蜥,"Save me, Liz-bro!"
+SPEECH_WIN,YABI！,YABI！
+SPEECH_LOSE,蜥翹翹惹OAO,"Lizardead!OAO"
+RESULT_WIN,CLEAR!,CLEAR!
+RESULT_LOSE,GAME OVER,GAME OVER
+TIMER_FMT,%d秒,%ds
+COUNTER_FMT,%d / 21 隻,%d / 21

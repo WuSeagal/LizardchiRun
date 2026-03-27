@@ -41,7 +41,7 @@ Supports **Traditional Chinese** and **English**. Toggle with the `EN / 中` but
 
 ## 🚀 Play
 
-Available on [itch.io](#) *(link TBD)*
+Available on [itch.io](https://wuseagal.itch.io/lizardchirun)
 
 ---
 
